@@ -2,7 +2,8 @@
   "name": "regex-recursion",
   "version": "1.0.0",
   "description": "",
-  "main": "lab10.js",
+  "main": "recursion.test.js",
+
   "scripts": {
     "test": "jest"
   },
